@@ -95,19 +95,19 @@ unsigned int tabspaces = 8;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
-	"#1d2021",  /*  0: black: bg0_h    */
+	"#1d2021",  /*  0: black: bg0_h */
 	"#cc241d",  /*  1: red      */
 	"#98971a",  /*  2: green    */
 	"#d79921",  /*  3: yellow   */
 	"#458588",  /*  4: blue     */
 	"#b16286",  /*  5: magenta  */
 	"#689d6a",  /*  6: cyan     */
-	"#ebdbb2",  /*  7: white    */
-	"#32302f",  /*  8: brblack: bg0_s  */
+	"#a89984",  /*  7: white    */
+	"#282828",  /*  8: brblack: bg0 */
 	"#fb4934",  /*  9: brred    */
 	"#b8bb26",  /* 10: brgreen  */
-	"#657b83",  /* 11: bryellow */
-	"#839496",  /* 12: brblue   */
+	"#fabd2f",  /* 11: bryellow */
+	"#83a598",  /* 12: brblue   */
 	"#d3869b",  /* 13: brmagenta*/
 	"#8ec07c",  /* 14: brcyan   */
 	"#fbf1c7",  /* 15: brwhite  */
